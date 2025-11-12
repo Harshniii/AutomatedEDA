@@ -1,4 +1,4 @@
-# 📊 Automated EDA Tool
+## 📊 Automated EDA Tool
 
 ## 📝 Description
 A simple and interactive Streamlit web app that automates Exploratory Data Analysis (EDA).  
